@@ -28,3 +28,7 @@ Code and results in the pinned repositories below.
 - **LLM systems** - MCP, LLMs APIs, RAG, On-premise AI (Ollama, LM Studio), Hugging Face, Fine-tuning, Agent-tooling, OpenWebUI
 - **Systems** - Linux, Docker, Git, GitHub Actions, SSH, Bash
 - **Web & automation** - JavaScript, FastAPI, n8n, Supabase
+
+---
+
+[lereungael@gmail.com](mailto:lereungael@gmail.com) · [Portfolio](https://gael926.github.io) · [LinkedIn](https://www.linkedin.com/in/gael-le-reun/) · [CV](https://gael926.github.io/assets/CV_Gael_Le_Reun.pdf)
