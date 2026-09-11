@@ -25,8 +25,8 @@ Code and results in the pinned repositories below.
 ## Stack
 
 - **Models & data** - Python, ML/DL (PyTorch, scikit-learn, LightGBM, XGBoost, SHAP, Optuna), SQL, Pandas, NumPy
-- **LLM systems** - MCP, LLMs APIs, RAG, On-premise AI (Ollama, LM Studio), Hugging Face, Fine-tuning, Agent-tooling, OpenWebUI
-- **Systems** - Linux, Docker, Git, GitHub Actions, SSH, Bash
+- **LLM systems** - MCP, RAG, Hugging Face, LM Studio, Ollama, OpenWebUI, OpenAI-compatible APIs, fine-tuning
+- **Systems** - Linux, Docker, Git, GitHub Actions, SSH, Bash, MLflow
 - **Web & automation** - JavaScript, FastAPI, n8n, Supabase
 
 ---
