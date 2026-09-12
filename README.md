@@ -18,7 +18,7 @@ pages, and a full-stack PWA built on automation workflows and cascaded LLM calls
 [Credit scoring](https://credit-scoring-analysis-pipeline.streamlit.app/) ·
 [Course completion](https://dl-course-completion-prediction.streamlit.app/) ·
 [Portfolio optimisation](https://portfolio-optimization-multi-criteria.streamlit.app/) ·
-[SIVAL hackathon](https://hackaton-sival-agreen-ctifl.streamlit.app/)
+[Tomato yield](https://hackaton-sival-agreen-ctifl.streamlit.app/)
 
 Code and results in the pinned repositories below.
 
